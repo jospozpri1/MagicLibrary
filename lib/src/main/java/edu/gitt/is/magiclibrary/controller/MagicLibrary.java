@@ -37,6 +37,7 @@ public class MagicLibrary {
 	 */
 	public static void main(String[] args) {
 		log.info("Hola soy Jose Antonio ejecutando la aplicación");
+		log.info("Buenas Tardes");
 		log.info("Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 		log.log(Level.INFO, "Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 
